@@ -28,4 +28,4 @@ spec:
       containers:
         - name: hello
           image: cloudsarath/k8s30:latest
-          imagepullpolicy: Always
+          imagePullPolicy: Always
